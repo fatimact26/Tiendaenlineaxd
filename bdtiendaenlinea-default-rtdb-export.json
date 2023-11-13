@@ -1,0 +1,65 @@
+{
+  "Cliente": {
+    "Cliente 1": {
+      "Apellido": "Bardales",
+      "Celular": "+502 4654-6884",
+      "Correo": "josbar24@gmail.com",
+      "Dirección": "Barrio Recidencial B´aar",
+      "Nombre": "Josue",
+      "id": 1
+    },
+    "Cliente 2": {
+      "Apellido": "Lazaro",
+      "Celular": "+502 3616-4684",
+      "Correo": "pedro72@gmail.com",
+      "Dirección": "Barrio Morelos",
+      "Nombre": "Pedro",
+      "id": 2
+    },
+    "Cliente 3": {
+      "Apellido": "Vazquez",
+      "Celular": "+502 1864-6587",
+      "Correo": "cr256@gmail.com",
+      "Dirección": "Barrio San Jacinto",
+      "Nombre": "Crysty",
+      "id": 3
+    }
+  },
+  "Cliente-Evento": {
+    "Evento 1": {
+      "id": 1,
+      "idCliente": 1,
+      "idEvento": 1
+    },
+    "Evento 2": {
+      "id ": 2,
+      "idCliente": 2,
+      "idEvento": 2
+    },
+    "Evento 3": {
+      "id": 3,
+      "idCliente": 3,
+      "idEvento": 3
+    }
+  },
+  "Evento ": {
+    "Evento 1": {
+      "Descripción": "Servicio completo",
+      "Nombre": "Boda",
+      "Precio": "Q.7,000.",
+      "id": 1
+    },
+    "Evento 2": {
+      "Descripción": "Servicio Completo",
+      "Nombre": "Baby Shower",
+      "Precio": "Q.5,000.",
+      "id": 2
+    },
+    "Evento 3": {
+      "Descripción": "Servicio Completo",
+      "Nombre": "Bautizo",
+      "Precio": "Q.3,500.",
+      "id": 3
+    }
+  }
+}
